@@ -37,3 +37,11 @@ First Fit Decreasing : 10
 g++ bin.cpp 
 a.out
 ```
+# Description for binIP.cpp: 
+This program will read from a file called binEC.txt. It will read the information in the file in the same way and format as for bin.cpp, but it will parse the information into a .txt file readable by a linear program. See one of the test cases attached as an example.
+
+# How to run
+```
+g++ binIP.cpp 
+a.out
+```
