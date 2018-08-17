@@ -31,3 +31,9 @@ First Fit Decreasing : 3
 Test Case 2   
 First Fit : 15    
 First Fit Decreasing : 10  
+
+# How to run
+```
+g++ bin.cpp 
+a.out
+```
