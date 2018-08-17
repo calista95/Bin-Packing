@@ -23,3 +23,11 @@ Ex:
 4 4 4 4 4 4 4 4 4 4 6 6 6 6 6 6 6 6 6 6 
  
 ```
+# Output
+For the example above: 
+Test Case 1 
+First Fit : 4
+First Fit Decreasing : 3 
+Test Case 2 
+First Fit : 15  
+First Fit Decreasing : 10
